@@ -1,6 +1,6 @@
 <h2>Leetcode-Java</h2>
 
-<p>1 Rotate Array in Java </p>
+<p> <a href="https://github.com/callmeShae/Leetcode-Java/tree/main/Rotate-Array"> 1 Rotate Array in Java </p>
 2 Evaluate Reverse Polish Notation </p>
 3 Solution of Longest Palindromic Substring in Java </p>
 4 Solution Word Break </p>
